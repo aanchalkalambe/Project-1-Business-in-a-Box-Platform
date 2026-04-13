@@ -4,7 +4,9 @@ AI-Powered Business-in-a-Box Platform for Local Service Providers
 ```
 
 Author(s): Aanchal Kalambe
+
 Affiliation: St. Vincent Pallotti College of Engineering & Technology, Nagpur
+
 Date: April 2026
 
 ```
